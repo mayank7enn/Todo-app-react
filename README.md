@@ -17,14 +17,17 @@ This is a simple To-Do list application built with React and Context API. The ap
 ## Getting Started
 
 To get started with this project, simply clone the repository:
-  
+
     ```sh
     git clone https://github.com/user/10TodoContextLocal.git
+
 Then install the dependencies:
 
     ```sh
     npm install
+
 Finally, start the development server:
+    
     ```sh
     npm install
 
