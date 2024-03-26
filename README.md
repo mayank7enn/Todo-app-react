@@ -1,4 +1,4 @@
-# 10TodoContextLocal
+# Todo-app-React
 
 A simple To-Do list application built with React and Context API.
 
